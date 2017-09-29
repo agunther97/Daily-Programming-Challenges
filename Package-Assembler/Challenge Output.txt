@@ -34,7 +34,7 @@
 2997    16      19        he could have others from death, but not
 2997    17      19        himself.
 2997    18      19
-6450    0       11        Voil‡! In view, a humble vaudevillian veteran, cast vicariously as both victim
+6450    0       11        Voil√†! In view, a humble vaudevillian veteran, cast vicariously as both victim
 6450    1       11        and villain by the vicissitudes of fate. This visage, no mere veneer of vanity,
 6450    2       11        is a vestige of the vox populi, now vacant, vanished. However, this valorous
 6450    3       11        visitation of a bygone vexation stands vivified, and has vowed to vanquish these
@@ -48,7 +48,7 @@
 7469    0       7          I've seen things you people wouldn't
 7469    1       7          believe. Attack ships on fire off the
 7469    2       7          shoulder of Orion. I watched C-beams
-7469    3       7          glitter in the dark near the Tannh‰user
+7469    3       7          glitter in the dark near the Tannh√§user
 7469    4       7          Gate. All those moments will be lost
 7469    5       7          in time, like tears in rain. Time to die.
 7469    6       7
